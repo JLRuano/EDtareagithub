@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Notas {
 
-public static void main(String[] args) {
+public static void cali(String[] args) {
 Scanner reader = new Scanner(System.in);// Para pedir números por teclado
 int n = 0;
 String c = "";
